@@ -1,1 +1,2 @@
-
+Criação de modelo preditivo para extrapolar uma série temporal com valores relativos ao volume de chuva nos primeiros dias do ano em determinada região ao longo de 85 anos.
+O modelo está no arquivo ipynb e enquanto os dados no csv. Há também uma imagem da previsão feita.
